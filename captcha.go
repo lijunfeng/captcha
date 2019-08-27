@@ -14,6 +14,7 @@
 // under the License.
 
 // Package captcha a middleware that provides captcha service for Macaron.
+
 package captcha
 
 import (
