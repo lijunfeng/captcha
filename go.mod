@@ -1,4 +1,4 @@
-module github.com/lijunfeng/captcha
+module captcha
 
 go 1.12
 
