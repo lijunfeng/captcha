@@ -8,7 +8,8 @@ import (
 	"testing"
 
 	"github.com/lunny/tango"
-	"github.com/tango-contrib/renders"
+// 	"github.com/tango-contrib/renders"
+	"github.com/lijunfeng/renders"
 )
 
 type CaptchaAction struct {
